@@ -34,13 +34,14 @@
 	 to="100"
 	 dur="5s"
 	 begin="0s"
+	 id="duck2anim1"
    />
      <animate xlink:href="#duck2"
      attributeName="x"
 	 from="-10"
 	 to="40"
 	 dur="5s"
-	 begin="5s"
+	 begin="duck2anim1.end"
 	 fill="freeze"
    />
    
@@ -50,13 +51,14 @@
 	 to="100"
 	 dur="15s"
 	 begin="0s"
+	 id="duck1anim1"
    />
   <animate xlink:href="#duck1"
      attributeName="x"
 	 from="-10"
 	 to="0"
 	 dur="3s"
-	 begin="15s"
+	 begin="duck1anim1.end"
 	 fill="freeze"
    />
  </svg>
