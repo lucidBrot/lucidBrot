@@ -4,26 +4,24 @@
 <svg id="SVG-Circus-76005f83-bf23-8f05-5f00-57c3dac1b39c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
  viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
  
+ <svg x="-25">
  <polygon id="actor_3" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4"
  opacity="1" fill="rgba(0,0,0,1)" fill-opacity="1" stroke="rgba(166,3,17,1)" stroke-width="0" stroke-opacity="1" stroke-dasharray=""></polygon>
+ </svg>
  
+ <svg x="30">
  <polygon id="actor_1" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4"
  opacity="1" fill="rgba(255,255,255,1)" fill-opacity="1" stroke="rgba(3,3,3,1)" stroke-width="0.1" stroke-opacity="1" stroke-dasharray="0.2"></polygon>
+ </svg>
  
-  <polygon id="actor_2" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4"
+  <polygon id="actor_2" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4" 
  opacity="1" fill="rgba(0,0,0,1)" fill-opacity="1" stroke="rgba(166,3,17,1)" stroke-width="0" stroke-opacity="1" stroke-dasharray=""></polygon>
 
- 
- <script type="text/ecmascript"><![CDATA[(function(){var actors={};
- actors.actor_1={node:document.getElementById("SVG-Circus-76005f83-bf23-8f05-5f00-57c3dac1b39c").getElementById("actor_1"),type:"square",cx:50,cy:75,dx:10,dy:33,opacity:1};
- actors.actor_2={node:document.getElementById("SVG-Circus-76005f83-bf23-8f05-5f00-57c3dac1b39c").getElementById("actor_2"),type:"circle",cx:50,cy:75,dx:10,dy:33,opacity:1};
- actors.actor_3={node:document.getElementById("SVG-Circus-76005f83-bf23-8f05-5f00-57c3dac1b39c").getElementById("actor_3"),type:"polygon",cx:50,cy:75,dx:10,dy:33,opacity:1};
- var tricks={};
- tricks.trick_1=(function(_,a){a=(function(n){return.5>n?2*n*n:-1+(4-2*n)*n})(a)%1,a=a*4%1,a=0>a?1+a:a;var t,n;.25>a?(t=2*a*73*Math.cos(0*Math.PI/180),n=2*-a*73*Math.sin(0*Math.PI/180)):.75>
- a?(t=(.5-2*(a-.25))*73*Math.cos(0*Math.PI/180),n=-(.5-2*(a-.25))*73*Math.sin(0*Math.PI/180)):(t=(-.5+2*(a-.75))*73*Math.cos(0*Math.PI/180),n=-(-.5+2*(a-.75))*73*Math.sin(0*Math.PI/180)),_._tMatrix[4]+=t,_._tMatrix[5]+=n});
- tricks.trick_2=(function(t,i){i=(function(n){return.5>n?2*n*n:-1+(4-2*n)*n})(i)%1,i=0>i?1+i:i;var _=t.node;0.1>=i?_.setAttribute("opacity",i*(t.opacity/0.1)):i>=0.9?_.setAttribute("opacity",t.opacity-(i-0.9)*(t.opacity/(1-0.9))):_.setAttribute("opacity",t.opacity)});
- var scenarios={};
- scenarios.scenario_1={actors: ["actor_1","actor_2","actor_3"],tricks: [{trick: "trick_1",start:0,end:1},{trick: "trick_2",start:0,end:1}],startAfter:0,duration:6000,actorDelay:300,repeat:0,repeatDelay:1000};
- var _reqAnimFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.oRequestAnimationFrame,fnTick=function(t){var r,a,i,e,n,o,s,c,m,f,d,k,w;for(c in actors)actors[c]._tMatrix=[1,0,0,1,0,0];for(s in scenarios)for(o=scenarios[s],m=t-o.startAfter,r=0,a=o.actors.length;a>r;r++){if(i=actors[o.actors[r]],i&&i.node&&i._tMatrix)for(f=0,m>=0&&(d=o.duration+o.repeatDelay,o.repeat>0&&m>d*o.repeat&&(f=1),f+=m%d/o.duration),e=0,n=o.tricks.length;n>e;e++)k=o.tricks[e],w=(f-k.start)*(1/(k.end-k.start)),tricks[k.trick]&&tricks[k.trick](i,Math.max(0,Math.min(1,w)));m-=o.actorDelay}for(c in actors)i=actors[c],i&&i.node&&i._tMatrix&&i.node.setAttribute("transform","matrix("+i._tMatrix.join()+")");_reqAnimFrame(fnTick)};_reqAnimFrame(fnTick);})()]]>
- </script>
+   <animate xlink:href="#actor_1"
+     attributeName="x"
+	 from="00"
+	 to="100"
+	 dur="1s"
+	 begin="0s"
+   />
  </svg>
