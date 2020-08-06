@@ -25,6 +25,7 @@
 	 to="100"
 	 dur="10s"
 	 begin="0s"
+	 fill="freeze"
    />
    
    <animate xlink:href="#duck2"
@@ -40,6 +41,7 @@
 	 to="40"
 	 dur="5s"
 	 begin="5s"
+	 fill="freeze"
    />
    
   <animate xlink:href="#duck1"
@@ -55,5 +57,6 @@
 	 to="0"
 	 dur="3s"
 	 begin="15s"
+	 fill="freeze"
    />
  </svg>
