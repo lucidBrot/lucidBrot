@@ -1,5 +1,3 @@
-![image header banner](https://github.com/lucidBrot/lucidBrot/raw/master/blackbrot-nighttime-banner.png)
-
-![svg testing](https://github.com/lucidBrot/lucidBrot/raw/master/animated.svg)
+![image header banner](./blackbrot-nighttime-banner.png)
 
 ![duck](./animated.svg)
