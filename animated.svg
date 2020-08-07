@@ -4,25 +4,25 @@
 <svg id="SVG-Circus-76005f83-bf23-8f05-5f00-57c3dac1b39c" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
  viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
  
- <svg x="0" overflow="visible" id="duck3">
+ <svg x="-10" overflow="visible" id="duck3">
  <polygon id="actor_3" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4"
  opacity="1" fill="rgba(0,0,0,1)" fill-opacity="1" stroke="rgba(166,3,17,1)" stroke-width="0" stroke-opacity="1" stroke-dasharray=""></polygon>
  </svg>
  
- <svg x="0" overflow="visible" id="duck1">
+ <svg x="-10" overflow="visible" id="duck1">
  <polygon id="actor_1" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4"
  opacity="1" fill="rgba(255,255,255,1)" fill-opacity="1" stroke="rgba(3,3,3,1)" stroke-width="0.1" stroke-opacity="1" stroke-dasharray="0.2"></polygon>
  </svg>
  
- <svg x="0" overflow="visible" id="duck2">
+ <svg x="-10" overflow="visible" id="duck2">
   <polygon id="actor_2" points="0,4 5,4 5,2 6,2 6,1 5,1 5,0 3,0 3,2 1,2 1,3 0,3 0,4" 
  opacity="1" fill="rgba(0,0,0,1)" fill-opacity="1" stroke="rgba(166,3,17,1)" stroke-width="0" stroke-opacity="1" stroke-dasharray=""></polygon>
  </svg>
 
    <animate xlink:href="#duck3"
      attributeName="x"
-	 from="00"
-	 to="100"
+	 from="-10"
+	 to="84"
 	 dur="10s"
 	 begin="0s"
 	 fill="freeze"
@@ -30,33 +30,33 @@
    
    <animate xlink:href="#duck2"
      attributeName="x"
-	 from="00"
+	 from="-10"
 	 to="100"
-	 dur="5s"
+	 dur="10s"
 	 begin="0s"
 	 id="duck2anim1"
    />
      <animate xlink:href="#duck2"
      attributeName="x"
 	 from="-10"
-	 to="40"
-	 dur="5s"
+	 to="10"
+	 dur="2s"
 	 begin="duck2anim1.end"
 	 fill="freeze"
    />
    
   <animate xlink:href="#duck1"
      attributeName="x"
-	 from="00"
+	 from="-10"
 	 to="100"
-	 dur="15s"
+	 dur="8s"
 	 begin="0s"
 	 id="duck1anim1"
    />
   <animate xlink:href="#duck1"
      attributeName="x"
 	 from="-10"
-	 to="0"
+	 to="47"
 	 dur="3s"
 	 begin="duck1anim1.end"
 	 fill="freeze"
