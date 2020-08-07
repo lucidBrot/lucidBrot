@@ -12,7 +12,7 @@
 | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=conrod-howto) | You need help.                                               |
 | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=znap) | ZFS has bad UX.                                              |
 | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=cevi-versand) | Somebody else is the database admin.                         |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidbrot&theme=algolia&layout=compact) | ![LucidBrot's github stats](https://github-readme-stats.vercel.app/api?username=lucidbrot&show_icons=true&theme=algolia&hide_title=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidbrot&theme=algolia&layout=compact) | ![LucidBrot's github stats](https://github-readme-stats.vercel.app/api?username=lucidbrot&show_icons=true&theme=algolia&hide_title=false) |
 
 
 
