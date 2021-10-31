@@ -7,6 +7,7 @@
 | ![Visits Badge](https://badges.pufler.dev/visits/lucidBrot/lucidBrot) |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=adventofcode)](https://github.com/lucidBrot/adventofcode) | You like weird stuff.                                        |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=algolab-tutorial)](https://github.com/lucidBrot/algolab-tutorial) | You are taking algolab.                                        |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=Brotkeys.js)](https://github.com/lucidBrot/Brotkeys.js) | You hate mice.                                               |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=znap)](https://github.com/lucidBrot/znap) | ZFS has bad UX.                                              |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=shiverbot)](https://github.com/lucidBrot/shiverbot) | You like passwords.                                          |
