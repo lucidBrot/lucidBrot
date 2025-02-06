@@ -6,6 +6,7 @@
 
 | ![Visits Badge](https://badges.pufler.dev/visits/lucidBrot/lucidBrot) |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=hexgridspiral)](https://github.com/lucidBrot/hexgridspiral) | You want hexagonal spiral coordinates in rust.                                        |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=adventofcode)](https://github.com/lucidBrot/adventofcode) | You like weird stuff.                                        |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=algolab-tutorial)](https://github.com/lucidBrot/algolab-tutorial) | You are taking algolab.                                        |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=migrate-from-google-play-music)](https://github.com/lucidBrot/migrate-from-google-play-music) | You hoard music files.                                       |
