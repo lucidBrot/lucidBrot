@@ -4,7 +4,7 @@
 
 ![duck](https://raw.githubusercontent.com/lucidBrot/lucidBrot/26b35b6e216205cf667c39b0b1b507a5119434e4/animated.svg)
 
-| ![Visits Badge](https://badges.pufler.dev/visits/lucidBrot/lucidBrot) |                                                              |
+|  |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=hexgridspiral)](https://github.com/lucidBrot/hexgridspiral) | You want hexagonal spiral coordinates in rust.                                        |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidbrot&theme=algolia&repo=adventofcode)](https://github.com/lucidBrot/adventofcode) | You like weird stuff.                                        |
