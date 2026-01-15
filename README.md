@@ -17,7 +17,6 @@
 | [![ReadMe Card](./profile/conrod-howto.svg)](https://github.com/lucidBrot/conrod-howto) | You need help. |
 | [![ReadMe Card](./profile/cevi-versand.svg)](https://github.com/lucidBrot/cevi-versand) | Somebody else is the database admin. |
 | [![ReadMe Card](./profile/mineDeeper.svg)](https://github.com/lucidBrot/mineDeeper) | You want a deterministic minesweeper in 3D. |
-| ![Top Langs](./profile/top-langs.svg) | ![LucidBrot's github stats](./profile/stats.svg) |
 | [![buy me a coffee](https://raw.githubusercontent.com/lucidBrot/lucidBrot/26b35b6e216205cf667c39b0b1b507a5119434e4/badges/coffee.svg)](https://www.buymeacoffee.com/LucidBrot)<br />[![paypal](https://raw.githubusercontent.com/lucidBrot/lucidBrot/26b35b6e216205cf667c39b0b1b507a5119434e4/badges/paypal.svg)](https://www.paypal.me/EricMink/20CHF) 
 If you dislike paypal, you can also send to `eric@mink.li` on [TransferWise](https://transferwise.com/invite/u/ericm1482)| You like my work.                                            |
 | ![Top Langs](./profile/top-langs.svg) | ![LucidBrot's github stats](./profile/stats.svg) |
